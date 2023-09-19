@@ -4,7 +4,7 @@
   "description": "crud-node",
   "main": "/src/index.ts",
   "scripts": {
-    "dev": "ts-node-dev --transpile-only src/index.ts",
+    "startdev": "ts-node-dev --transpile-only src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Samuel de Alcantara Pereira",

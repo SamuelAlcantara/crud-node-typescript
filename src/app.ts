@@ -1,6 +1,7 @@
 import cors from "cors";
 import express, { Application } from "express";
 import dotenv from 'dotenv';
+import './data-source'
 
 export default class App {
   public app: Application;
